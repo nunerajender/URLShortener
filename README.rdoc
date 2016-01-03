@@ -1,0 +1,49 @@
+=================================  URLShortener  ================================
+
+== Welcome to Rails
+
+Rails is a web-application framework that includes everything needed to create
+database-backed web applications according to the Model-View-Control pattern.
+
+=========Environtment for This Application=======
+
+Ruby 	 : '2.0.0' version
+Rails 	 : '3.2.15' version
+Database : sqlite3
+Main Gem : 'shortener'
+
+URL Shortener Using Rails Application:
+--------------------------------------
+
+By using Rails MVC Application it will be prodused the Long Url to Custom short url
+
+so here some gem are using for url shortener propuss 
+
+mainly this Application using the " gem 'shortener' " for creating custom shortest url
+
+in this is app providing the short url, and view side using twitter-boostrap for designing.
+
+steps: 
+step1: creating new rails application
+	ex: rails new  UrlShortener
+
+step2: generating short for model and controller
+	ex: rails generate model short
+	ex: rails generate controller short
+
+step3 adding shortner gem into gemfile
+	ex: gem 'shortener' 
+
+step4:generating migrations
+	ex:rake db:create
+	   rake db:migrate...etc
+
+step5: start the server
+	ex: rails s (or) rails server
+   
+-------------------------------
+created by Rajender
+
+
+
+
