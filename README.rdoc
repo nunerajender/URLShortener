@@ -7,17 +7,17 @@ database-backed web applications according to the Model-View-Control pattern.
 
 =========Environtment for This Application=======
 
-Ruby 	 : '2.0.0' version
-Rails 	 : '3.2.15' version
-Database : sqlite3
-Main Gem : 'shortener'
+Ruby 	 : '2.0.0' version :
+Rails 	 : '3.2.15' version :
+Database : sqlite3 :
+Main Gem : 'shortener' :
 
 URL Shortener Using Rails Application:
 --------------------------------------
 
 By using Rails MVC Application it will be prodused the Long Url to Custom short url
 
-so here some gem are using for url shortener propuss 
+so here some gem are using for url shortener purposs 
 
 mainly this Application using the " gem 'shortener' " for creating custom shortest url
 
